@@ -1,1 +1,1 @@
-# Jadwal_RFiuwWinlyeFerdiansyah_Mobile
+App sederhana bertemakan jadwal yang berguna untuk memudahkan kita dalam mengingat aktivitas yang akan dilakukan.
